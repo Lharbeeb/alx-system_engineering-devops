@@ -1,0 +1,1 @@
+this repo contains a compilations of scripts of shebang
