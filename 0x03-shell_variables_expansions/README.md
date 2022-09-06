@@ -1,0 +1,1 @@
+this is a folder that contains scripts of shell variables and expansions 
